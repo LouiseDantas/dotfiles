@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = louisermdantas@gmail.com
+	name = Louise Dantas
